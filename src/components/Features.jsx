@@ -11,9 +11,10 @@ function Features() {
     <div class="flex justify-center flex-wrap gap-x-10 -m-4">
       <div class="p-4 lg:w-1/6 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-   <a className="ml-2 text-blue-500">
+  <a className="ml-2 text-blue-500">
   <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1" className="w-[25px] h-[40px]" viewBox="0 0 24 24">
-    <rect x="4" y="4" width="25" height="40" rx="2" ry="2"></rect>
+    <path d="M12 15.5a3.5 3.5 0 100-7 3.5 3.5 0 000 7z" />
+    <path d="M19.4 15a1.65 1.65 0 01.33 1.82l-.03.05a1.65 1.65 0 01-2.33.55 5.44 5.44 0 01-1.63-1.2 5.42 5.42 0 01-1.2-1.63 1.65 1.65 0 01.55-2.33l.05-.03A1.65 1.65 0 0115 8.6a5.42 5.42 0 011.63 1.2 5.44 5.44 0 011.2 1.63 1.65 1.65 0 01.55 2.33z" />
   </svg>
 </a>
           <div class="w-full">
