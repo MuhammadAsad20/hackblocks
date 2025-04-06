@@ -24,9 +24,9 @@ function Features() {
       </div>
       <div class="p-4 lg:w-1/6 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-    <a className="ml-2 text-blue-500">
-  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1" className="w-[25px] h-[40px]" viewBox="0 0 24 24">
-    <path d="M20.8 4.6c-1.5-1.3-3.7-1.3-5.2 0L12 8l-3.6-3.4c-1.5-1.3-3.7-1.3-5.2 0-1.8 1.6-1.8 4.3 0 5.9L12 21l8.8-10.5c1.7-1.6 1.7-4.3 0-5.9z" />
+    <a className="ml-2 text-blue-500" href="#" target="_blank" rel="noopener noreferrer">
+  <svg fill="currentColor" stroke="none" className="w-25 h-40" viewBox="0 0 24 24">
+    <path d="M12 21s-6.7-4.4-10-9.5C-1.5 6.5 3.6 1 8.6 5.1L12 8.4l3.4-3.3C20.4 1 25.5 6.5 22 11.5 18.7 16.6 12 21 12 21z" />
   </svg>
 </a>
     <div class="w-full">
@@ -37,10 +37,9 @@ function Features() {
       </div>
       <div class="p-4 lg:w-1/6 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-     <a className="ml-2 text-blue-500">
-  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1" className="w-[25px] h-[40px]" viewBox="0 0 24 24">
-    <circle cx="12" cy="12" r="3"></circle>
-    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82 2 2 0 0 1-2.82 2.82 1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51v.34a2 2 0 0 1-4 0v-.34a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33 2 2 0 0 1-2.82-2.82 1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.34a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82 2 2 0 0 1 2.82-2.82 1.65 1.65 0 0 0 1.82.33h.01A1.65 1.65 0 0 0 9 4.6V4.25a2 2 0 0 1 4 0v.34a1.65 1.65 0 0 0 1 1.51h.01a1.65 1.65 0 0 0 1.82-.33 2 2 0 0 1 2.82 2.82 1.65 1.65 0 0 0-.33 1.82 1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.34a1.65 1.65 0 0 0-1.51 1z" />
+     <a className="ml-2 text-blue-500" href="#" target="_blank" rel="noopener noreferrer">
+  <svg fill="currentColor" stroke="none" className="w-25 h-40" viewBox="0 0 24 24">
+    <path d="M19.14,12.94a7.78,7.78,0,0,0,0-1.88l2.11-1.65a.5.5,0,0,0,.12-.64l-2-3.46a.5.5,0,0,0-.61-.22l-2.49,1a7.68,7.68,0,0,0-1.63-.95L14,2.5a.5.5,0,0,0-.5-.5H10.5a.5.5,0,0,0-.5.5l-.38,2.63a7.68,7.68,0,0,0-1.63.95l-2.49-1a.5.5,0,0,0-.61.22l-2,3.46a.5.5,0,0,0,.12.64L4.86,11.06a7.78,7.78,0,0,0,0,1.88L2.75,14.59a.5.5,0,0,0-.12.64l2,3.46a.5.5,0,0,0,.61.22l2.49-1a7.68,7.68,0,0,0,1.63.95L10,21.5a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5l.38-2.63a7.68,7.68,0,0,0,1.63-.95l2.49,1a.5.5,0,0,0,.61-.22l2-3.46a.5.5,0,0,0-.12-.64ZM12,15.5A3.5,3.5,0,1,1,15.5,12,3.5,3.5,0,0,1,12,15.5Z" />
   </svg>
 </a>
   <div class="w-full">
