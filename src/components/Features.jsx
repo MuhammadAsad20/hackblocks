@@ -13,7 +13,7 @@ function Features() {
         <div class="h-full flex flex-col items-center text-center">
    <a className="ml-2 text-blue-500">
   <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-[25px] h-[40px]" viewBox="0 0 24 24">
-    <rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect>
+    <rect x="40" y="40" width="16" height="16" rx="2" ry="2"></rect>
   </svg>
 </a>
           <div class="w-full">
