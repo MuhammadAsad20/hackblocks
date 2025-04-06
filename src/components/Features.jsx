@@ -13,7 +13,7 @@ function Features() {
         <div class="h-full flex flex-col items-center text-center">
 <a className="ml-2 text-blue-500" href="#" target="_blank" rel="noopener noreferrer">
   <svg fill="currentColor" stroke="none" className="w-25 h-40" viewBox="0 0 24 24">
-    <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM0 8.98h5v15H0v-15zm7.5 0h4.78v2.02h.07c.66-1.25 2.28-2.56 4.7-2.56 5.03 0 5.96 3.31 5.96 7.61v8.07h-5v-7.16c0-1.7-.03-3.88-2.37-3.88s-2.74 1.85-2.74 3.76v7.28h-5v-15z" />
+    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
   </svg>
 </a>
           <div class="w-full">
