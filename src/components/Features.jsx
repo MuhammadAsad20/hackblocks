@@ -12,8 +12,8 @@ function Features() {
       <div class="p-4 lg:w-1/6 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
    <a className="ml-2 text-blue-500">
-  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-[25px] h-[40px]" viewBox="0 0 24 24">
-    <rect x="40" y="40" width="16" height="16" rx="2" ry="2"></rect>
+  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1" className="w-[25px] h-[40px]" viewBox="0 0 24 24">
+    <rect x="4" y="4" width="25" height="40" rx="2" ry="2"></rect>
   </svg>
 </a>
           <div class="w-full">
